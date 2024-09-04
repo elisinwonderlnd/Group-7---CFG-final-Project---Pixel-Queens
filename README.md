@@ -12,8 +12,8 @@ This project was developed by **Group 7**, consisting of:
 
 - **Boglarka Ser** - *Responsible for creating the basic CSS file and setting up corresponding classes in the HTML. Developed the JavaScript functionalities and contributed to fixing the navbar and footer sections.*
 - **Elisa Marra** - *Designed the wireframe and overall concept as the UI/UX designer. Integrated HTML and CSS files, ensured all links were functional, and alt text was included for accessibility. Assisted in resolving code issues.*
-- **Rita Shaibu** - *Responsible for creating the basic HTML file*  
-- **Viktoryia Yerashenka** - *Contributed to setting up the navbar and footer sections.*
+- **Rita Shaibu** - *Responsible for creating the basic HTML file.*  
+- **Viktoryia Yerashenka** - *Contributed to setting up the navbar and footer sections using Bootstrap.*
 
   ## Technical Details
 
